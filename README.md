@@ -1,4 +1,4 @@
-techaer-portfolio
+teacher-portfolio
 
 Technologies: HTML5, CSS3, SCSS.
 
